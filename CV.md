@@ -1,6 +1,6 @@
 # Simon Varlow
 
-[Email](amilto:svarlow@live.ca) | [LinkedIn](https://www.linkedin.com/in/simon-varlow/)
+[Email](mailto:svarlow@live.ca) | [LinkedIn](https://www.linkedin.com/in/simon-varlow/)
 
 ## Career Summary
 

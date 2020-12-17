@@ -13,7 +13,7 @@ Accomplished System Administrator, with a proven background in Windows and Unix 
 ---
 
 **Systems Administrator** @
-[IMImobile Canada Inc.](https://imimobile.com/) ([Impact Mobile](http://www.impactmobile.com/))
+[imimobile](https://imimobile.com/) ([Impact Mobile](http://www.impactmobile.com/))
 _(October 2018 – Present)_
 
 - Created ansible playbooks and roles for automation of infrastructure and systems deployments

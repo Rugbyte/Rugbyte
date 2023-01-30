@@ -5,7 +5,7 @@
 This is where I'll be placing my opensource code and projects that are allowed to be in the wild.
 
 - Based in Hamilton, Ontario 📍
-- Currently working for IMImobile (Impact Mobile) as a System Administrator
+- Currently working for IMImobile (part of Cisco) as a System Administrator
 - Started my career in support, moved to system administration and looking towards DevOps
 - Always looking to expand my programming knowledge, working on learning React
 - Part time photographer 📷
